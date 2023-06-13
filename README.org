@@ -1,0 +1,10 @@
+* trivial-shell
+
+A simple Common-Lisp interface to the underlying Operating System
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gwkkwg/trivial-shell.git   |
+| commit  | ad4218b  |
+| systems | trivial-shell |
+|---------+-------------------------------------------|
+
